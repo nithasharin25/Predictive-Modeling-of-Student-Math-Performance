@@ -17,6 +17,7 @@ Reading Score
 Writing Score
 
 The model is trained using the Students Performance dataset, and it helps determine the likelihood of a student passing math with a confidence score.
+kaggle link:https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?utm_source=chatgpt.com
 
 ✅ How to Use:
 Upload the dataset (StudentsPerformance.csv) manually.
